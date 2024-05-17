@@ -4,6 +4,7 @@ Clone of GPT3 Website using Reactjs
 
 ## Usage
 npm i
+
 npm start
 ```
 
